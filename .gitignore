@@ -1,0 +1,4 @@
+*.csv
+*.zst
+sample_ais.csv
+*.csv.zst
